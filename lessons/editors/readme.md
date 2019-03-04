@@ -34,7 +34,7 @@ Here's a basic list of commands:
 |   |terminal editor | open a file    |  edit a file |  save a file       |  exit a file   |  
 |---|----------------|----------------|--------------|--------------------|----------------|
 | 1 | nano           | nano filen.py  | [just type]  | ctrl + o, enter    | ctrl + x       |
-| 2 | vim, vi        | vim filen.py   | [just type]  | esc :w, enter      | esc :q, enter  |
+| 2 | vim, vi        | vi filen.py    | [just type]  | esc :w, enter      | esc :q!, enter |
 | 3 | emacs          | emacs filen.py | [just type]  | ctrl-x, xtrl-s     | ctrl-x, ctrl-c |
  
 
