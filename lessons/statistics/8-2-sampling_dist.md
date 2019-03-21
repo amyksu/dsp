@@ -36,16 +36,19 @@ SimulateSample()
 ```
 ### Output for n=10: 
 standard error 0.7676696795418035
+
 confidence interval (1.2646255784620983, 3.4798778245314357)
 
 ![CDF plot](sampling.png)
 
 ### Output for n=100
 standard error 0.20132206293593627
+
 confidence interval (1.7210814165411101, 2.3768987615891124)
 
 ### Output for n=1000
 standard error 0.060329991133675584
+
 confidence interval (1.9003507493175904, 2.101635785128087)
 
 ## Conclusion
