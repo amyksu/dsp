@@ -34,13 +34,19 @@ RunResampleTest(firsts, others)
 
 ### Output
 diff means resample pregnancy length
+
 p-value = 0.1628
+
 actual = 0.07803726677754952
+
 ts max = 0.2744886651730454
 
 diff means resample birthweight
+
 p-value = 0.0
+
 actual = 0.12476118453549034
+
 ts max = 0.11238244915618889
 
 ## Conclusion
